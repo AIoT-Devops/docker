@@ -51,7 +51,7 @@ CMD ["node","app.js"]
 ## 构建Docker镜像
 
 ```
-docker build -t SunHe/docker-node
+docker build -t SunHe/docker-node .
 ```
 
 -t 代表当前镜像的tag

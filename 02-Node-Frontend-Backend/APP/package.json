@@ -1,0 +1,12 @@
+{
+    "name": "node-fullstack",
+    "version": "1.0.0",
+    "description": "node fullstack",
+    "author": "SUN He",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
